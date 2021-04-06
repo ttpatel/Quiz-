@@ -20,7 +20,7 @@ html{
    padding-left: 350px;
 }
 
-.inner-div{
+.innerdiv{
     width: 40vw;
     background-color: white;
     padding: 3rem 8rem;
@@ -28,12 +28,12 @@ html{
     box-shadow: 0 1rem 1rem -0.7rem rgba(0,0,0, 0.4);
 }
 
-.inner-div h2{
+.innerdiv h2{
     font-size: 4rem;
  font-weight: 400;
     margin-top: 1rem 0 4rem 0;
 }
-.inner-div li{
+.innerdiv li{
     font-size:2.5rem;
     font-weight: 600;
     margin-top: 1.5rem;
@@ -62,7 +62,10 @@ button:hover{
     padding: 3rem 4rem;
     box-shadow: 0 1rem 1rem -0.7rem rgba(0,0,0, 0.4);
 }
-
+.textarea{
+    width: 420px;
+    height: 30px;
+}
 #showScore h3{
     font-style: italic;
     font-size: 3rem;
